@@ -29,6 +29,9 @@ Coming Soon!
 
 ## Final project
 There are 3 parts of the final project.
+
 [Part I](final-project-part-one.md)
+
 [Part II](final-project-part-two.md)
+
 [Part III](final-project-part-three.md)
