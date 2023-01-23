@@ -1,39 +1,30 @@
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data Course at CMU!  Here's where all my cool work will go. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+I am Yicen Ma. I graduated from the University of California San Diego(UCSD) and majored in data science and minored in cognitive science. Currently, I am a master's student at Carnegie Mellon University in the Information System Management Program at Pittsburgh. I am experienced in many data analytics, data science, data mining, and data warehousing projects. I really like data! Moreover, I love traveling during my breaks.
+
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+- Improve my data visualization design
+- Learn the narrative skills to tell the story of data
+- Better utilization of colors
+- Ability to choose the proper medium
+- Learn attractive skills in typography
+- Familiar with Tableau and Github
+- Experience in design portfolio
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+Coming Soon!
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+Coming Soon!
+ 
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
