@@ -20,15 +20,15 @@ I am Yicen Ma. I graduated from the University of California San Diego(UCSD) and
 
 # Portfolio
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
 Coming Soon!
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 Coming Soon!
  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+There are 3 parts of the final project.
+[Part I](final-project-part-one.md)
+[Part II](final-project-part-two.md)
+[Part III](final-project-part-three.md)
