@@ -4,7 +4,7 @@ This is my public portfolio for Telling Stories with Data Course at CMU!  Here's
 # About me
 I am Yicen Ma. I graduated from the University of California San Diego(UCSD) and majored in data science and minored in cognitive science. Currently, I am a master's student at Carnegie Mellon University in the Information System Management Program at Pittsburgh. I am experienced in many data analytics, data science, data mining, and data warehousing projects. I really like data! Moreover, I love traveling during my breaks.
 
-<img src="Yicen.jpg" width="200"/>
+<img src="Yicen.jpg" width="400"/>
 
 
 # What I hope to learn
