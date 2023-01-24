@@ -40,7 +40,9 @@ There are 3 parts of the final project.
 # Tracking my Web
 
 Web page URL: https://yicenma.github.io/tswd-portfolio/
+
 This repository: https://github.com/yicenma/tswd-portfolio/
 
 ### Reference
+
 https://github.com/cmustudent/tswd-portfolio-templates
