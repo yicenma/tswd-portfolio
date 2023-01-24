@@ -1,6 +1,10 @@
 # Portfolio
 This is my public portfolio for Telling Stories with Data Course at CMU!  Here's where all my cool work will go. 
 
+Web page URL: https://yicenma.github.io/tswd-portfolio/
+
+This repository: https://github.com/yicenma/tswd-portfolio/
+
 # About me
 I am Yicen Ma. I graduated from the University of California San Diego(UCSD) and majored in data science and minored in cognitive science. Currently, I am a master's student at Carnegie Mellon University in the Information System Management Program at Pittsburgh. I am experienced in many data analytics, data science, data mining, and data warehousing projects. I really like data! Moreover, I love traveling during my breaks.
 
@@ -20,10 +24,6 @@ I am Yicen Ma. I graduated from the University of California San Diego(UCSD) and
 
 # Portfolio
 Here are the all works. Please take a look!
-
-Web page URL: https://yicenma.github.io/tswd-portfolio/
-
-This repository: https://github.com/yicenma/tswd-portfolio/
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
 Coming Soon!
