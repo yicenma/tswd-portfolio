@@ -33,7 +33,7 @@ Coming Soon!
  
 
 ## Final project
-There are 3 parts of the final project.
+There are 3 parts of the final project. Coming Soon!
 
 [Part I](final-project-part-one.md)
 
