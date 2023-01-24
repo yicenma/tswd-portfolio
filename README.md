@@ -21,6 +21,10 @@ I am Yicen Ma. I graduated from the University of California San Diego(UCSD) and
 # Portfolio
 Here are the all works. Please take a look!
 
+Web page URL: https://yicenma.github.io/tswd-portfolio/
+
+This repository: https://github.com/yicenma/tswd-portfolio/
+
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
 Coming Soon!
 
@@ -37,11 +41,6 @@ There are 3 parts of the final project.
 
 [Part III](final-project-part-three.md)
 
-# Tracking my Web
-
-Web page URL: https://yicenma.github.io/tswd-portfolio/
-
-This repository: https://github.com/yicenma/tswd-portfolio/
 
 ### Reference
 
