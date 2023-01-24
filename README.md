@@ -42,6 +42,6 @@ There are 3 parts of the final project.
 [Part III](final-project-part-three.md)
 
 
-### Reference
+## Reference
 
 https://github.com/cmustudent/tswd-portfolio-templates
