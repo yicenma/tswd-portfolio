@@ -26,7 +26,8 @@ I am Yicen Ma. You can call be Marita. I graduated from the University of Califo
 Here are the all works. Please take a look!
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt.md)
-Coming Soon!
+- Part 1: Working with web-based visualization tools and data
+- Part 2: Working with Flourish
 
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 Coming Soon!
