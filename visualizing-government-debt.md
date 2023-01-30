@@ -17,3 +17,6 @@ I used the flourish.studio to visualize the country debt’s data following the 
 
 ### General Government Debt World Map (2021)
 <div class="flourish-embed flourish-map" data-src="visualisation/12572460"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Japan Recession Threat
+<div class="flourish-embed flourish-chart" data-src="visualisation/12596946"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
