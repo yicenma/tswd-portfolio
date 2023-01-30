@@ -4,7 +4,6 @@
 
 ## Part 1: Working with web-based visualization tools and data
 ### General Government Debt Bar Chart (2021)
-Total, % of GDP, 2021 or latest available
 <iframe src="https://data.oecd.org/chart/6XSx" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6XSx" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
 
 
@@ -16,7 +15,9 @@ I used the flourish.studio to visualize the country debt’s data following the 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12572192"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### General Government Debt World Map (2021)
+
 <div class="flourish-embed flourish-map" data-src="visualisation/12572460"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Japan Recession Threat
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/12596946"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
