@@ -16,11 +16,11 @@ https://www.worldbank.org/en/programs/icp/brief/foodpricesfornutrition
 
 ## Step four: Test the solution
 
-### First VIZ
-
 I have shown my visualizations to two different people and asked for their feedback shown below. One is my classmate and the other is the general audience.
 
-- Can you tell me what you think this is?
+### First VIZ
+
+**Can you tell me what you think this is?**
 * It shows the percentage of people that cannot afford healthy diets in each country
 * It shows the percentage of people that cannot afford healthy diets in each country, and the darker color means a more severe crisis.
 
@@ -47,3 +47,33 @@ I have shown my visualizations to two different people and asked for their feedb
 * Not doing this visualization by hand and there is some overlapping/not covered region on the map.
 * Recommended to list the top 10 countries with the most severe diet issue.
 
+### Second VIZ
+
+**Can you tell me what you think this is?**
+* It tells the two categories’ population change from 2017 to 2020.
+* It shows the gap between the affordable and unaffordable healthy diet population.
+
+
+**Can you describe to me what this is telling you?**
+
+* There is no change/almost no change in the unaffordable population worldwide.
+* The gaps between the two category seem to decrease gradually each year.
+
+**Is there anything you find surprising or confusing?**
+
+* The surprising point is why the affordable population decreased in 2020.
+* There is no unit on the y-axis.
+* There is no way to know the exact number of each bar.
+* Cannot tell the population difference between each year.
+* It is surprising that there is a huge amount of the population who cannot afford a healthy diet.
+
+**Who do you think is the intended audience for this?**
+
+* Everyone could be the audience because the unaffordable healthy diet issue is related to every human being. People could track the trend on this graph.
+* Charitable organizations/non-profit organizations that are trying to fundraise to make healthy diets affordable to all people in the world. 
+
+**Is there anything you would change or do differently?**
+
+* Labeling the number of the population for each year.
+* Changing it to a more trackable chart that allows the audience to easily detect the differences.
+* Labeling the number of the population for each year to make the graph clear.
