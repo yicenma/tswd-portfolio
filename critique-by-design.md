@@ -24,25 +24,25 @@ I have shown my visualizations to two different people and asked for their feedb
 * It shows the percentage of people that cannot afford healthy diets in each country
 * It shows the percentage of people that cannot afford healthy diets in each country, and the darker color means a more severe crisis.
 
-- Can you describe to me what this is telling you?
+**Can you describe to me what this is telling you?**
 
 * Africa region is facing the most severe unaffordable healthy diet issue.
 * Unaffordable healthy diet is severe around the world.
 * The developed countries have more percentage of people that can afford healthy diets.  This percentage is related to the country’s economic and civil situation.
 
-- Is there anything you find surprising or confusing?
+**Is there anything you find surprising or confusing?**
 
 * One thing that surprised my audience is that most of the countries in the world are facing the unaffordable healthy diet issue.
 * The legend confused my audience because she initially thought it was the worldwide percentage. After taking some time to comprehend the graph, she realized it is the percentage of each country’s legend.
 * One surprising point is why Canada is blank.
 * The other counties’ colors are not differentiable when the percentages are close (ex. China and Russia)
 
-- Who do you think is the intended audience for this?
+**Who do you think is the intended audience for this?**
 
 * The leader of each country who should care about this crisis.
 * Charitable organizations/non-profit organizations that are trying to fundraise to make healthy diets affordable to all people in the world. 
 
-- Is there anything you would change or do differently?
+**Is there anything you would change or do differently?**
 * Change the title of the legend to a more specific one, such as “the population percentage facing unaffordable health diet for each country”.
 * Not doing this visualization by hand and there is some overlapping/not covered region on the map.
 * Recommended to list the top 10 countries with the most severe diet issue.
