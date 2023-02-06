@@ -10,9 +10,40 @@ Website:
 https://www.worldbank.org/en/programs/icp/brief/foodpricesfornutrition
 
 ## Step two: Critique the data visualization
+### Ranking(1-10 from lowest to highest):
+Usefulness: 5
+Completeness: 8
+Perceptibility: 3
+Truthfulness: 10
+Intuitiveness: 4
+Aesthetics:7
+Engagement: 6
+
+### Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?  
+
+First of all, the visualization’s title stood out to me. By looking at the title itself, I can clearly understand the purpose of the viz, highlighting a large portion of the world population who cannot afford a healthy diet. It also demonstrates the data usage by applying the data into a viz tool. The visualization is interactive, the audience can put the cursor on the region and it will display the percentage of a country’s population that cannot afford healthy diets. It also uses circles on the world map to represent each country’s unaffordable population size. However, some circles overlap which messes up the visualization. The audience might think there is no data on that country when some circles are too small which is hard to see. This visualization only uses three different circle sizes to represent population size so it is hard to compare the real population on the map. Moreover, the author tries to utilize the sequential red color in the circle to represent the percentage of people that cannot afford healthy diets for each country, which is good. Darker red means a higher unaffordable percentage. However, in some countries, there are many people that cannot afford healthy diets compared to other countries but it’s only a small portion of that country’s population (for example India). I would like to just use one metric for the visualization so it won’t confuse people. I would use percentages to represent each country to eliminate confusion. Each country is governed by its own laws and rules. If we want to let more people have a healthy diet, we should encourage the governments to solve this problem and make sure more people can afford healthy diets. So the unaffordable percentage is a better choice than the population. It will also make the visualization more intuitive and perceptible.
+
+### Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not?
+
+The primary audiences for this visualization are:
+1. Nonprofit organizations, private sector entities, governments, civil rights organizations, and charity groups who care about this issue
+2. People in the World Bank member countries that want to know more about the affordability of healthy food in their countries
+3. Specialist who focuses on food prices for the nutrition and regions database study
+4. People who need the data hub to analyze food prices for nutrition around the world.
+
+This visualization is effective if the audience can take some time to comprehend the graph. Then, they can understand and compare each country’s unaffordable healthy diet portion and size by color and shape. As I mentioned above, the main problem is the contrast between the population circle size and the red color, which will confuse the audience (India). Because it is only a brief page of the Food Prices for Nutrition DataHub, the audience might just take a glance at the page. Making an intuitive and engaging visualization about the datahub application is more useful for the audience.
+
+### Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here?  What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)
+
+This evaluation form works well for me because it evaluates the visualization from multiple aspects. There is one thing I think is missing is the weight of each aspect, because based on the purpose of each visualization and its target audience, the weight of the measurement should be different. For example, in my selected visualization, I think truthfulness, perceptibility, and intuitiveness are more important than other measurements.  Then we can compute a final score based on their weight to evaluate the visualization.
+Moreover, I will change each measurement title to bold and put it in a single line and put other descriptions in the next paragraph with a smaller font size to make it clear. Also, we can utilize the diverging colors (red to green) to represent the measurement as a rating from negative to positive and make it more intuitive.
 
 ## Step three: sketch out a solution
 
+I sketch my solution into two visualizations.
+
+<img src="draft1.jpg" width="400"/>
+<img src="draft2.jpg" width="400"/>
 
 ## Step four: Test the solution
 
@@ -77,3 +108,55 @@ I have shown my visualizations to two different people and asked for their feedb
 * Labeling the number of the population for each year.
 * Changing it to a more trackable chart that allows the audience to easily detect the differences.
 * Labeling the number of the population for each year to make the graph clear.
+
+## Step five: Build your solution
+
+### Revision based on interview and self-critiques
+<div class="flourish-embed flourish-map" data-src="visualisation/12659259"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/12659307"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+There are many people that cannot afford healthy diets compared to other countries but it’s only a small portion of that country’s population, which is the contrast between the circle shape(size of population) and color.
+**Solution:** Choose one metric(percentages) for the visualization so it won’t confuse people. If we want to let more people have a healthy diet, we should encourage the governments to solve this problem and make sure more people can afford healthy diets. So the unaffordable percentage is a better choice for the audience.
+
+The legend shape size makes it the audience hard to compare each color.
+**Solution:** Use the sequential color legend to represent the percentage. Also, make it interactive so the audience can put the cursor on the region and it will display the percentage of a country’s population that cannot afford healthy diets.
+
+Hard to detect where are the 3 Billion population comes from by the graph.
+**Solution:** Change the title to more engaging to highlight the purpose - an unaffordable healthy diet crisis around the world.
+
+A low score on Intuitiveness and Perceptibility.
+**Solution:** Improve my intuitive visualization and make the visualization easier to understand.
+
+A low score on Engagement and Usefulness.
+**Solution:** Add a background image to illustrate the unhealthy diet crisis and change the visualization clear.
+
+The legend is unclear for viz1.
+**Solution:** Change the title of the legend to Unaffordable share of population by country.
+
+The other counties’ colors are not differentiable when the percentages are close for viz1.
+**Solution:** Make the graph interactive, so the audience can track the value of each country. 
+
+Unclear region boundary and color.
+**Solution:** Make the visualization digitalize. Making a footnote of some data might not provide.
+
+No unit on the y-axis for viz2.
+**Solution:** Add the unit - million on the y-axis.
+
+Hard to know each year's population value.
+**Solution:** Label the number of the population for each year next to each point.
+
+Changing it to a more trackable chart allows the audience to easily detect the differences.
+**Solution:**  Substitute the bar chart with a line chart.
+
+### Revision based on in-class group discussion
+
+Maybe changes the background color to a lighter one for viz1.
+**Solution:** change the color to a lighter green.
+
+Perfect for both visualization. One thing that can improve is to take care of color blind people, maybe only change one color.
+**Solution:** change the light green to light blue.
+
+
+### Final Solution
+<div class="flourish-embed flourish-map" data-src="visualisation/12666705"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/12666702"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
