@@ -1,10 +1,8 @@
-| [Home Page](https://yicenma.github.io/tswd-portfolio) | [In-Class Week3](Week3-in-class.md) | [Visualizing Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three) |
-
 #  Critique by Design
 
 ## Step one: Find a data visualization
 
-I found the data visualization from the world bank organization’s official website. The organization's main goal is to reduce poverty and promote sustainable economic growth in the poorest countries of the world. They covered programs cover a wide range of areas, including agriculture, education, energy, health, and infrastructure development. I found the brief named ”Food Prices for Nutrition DataHub: global statistics on the cost and affordability of healthy diets“, which highlights there is a huge group of people who cannot afford a healthy diet in the world. The visualization’s story cannot illustrate the purpose and mislead the audience. I decided to use two visualizations to improve it.
+I found the data visualization from the world bank organization’s official website. The organization's main goal is to reduce poverty and promote sustainable economic growth in the poorest countries of the world. They covered programs cover a wide range of areas, including agriculture, education, energy, health, and infrastructure development. I found the brief named ”Food Prices for Nutrition DataHub: global statistics on the cost and affordability of healthy diets“, which highlights there is a huge group of people who cannot afford a healthy diet in the world. I think this topic is special because it is related to every human being and can alert people/organizations of the diet crisis of the world. However, the visualization’s story cannot illustrate the purpose and might confuse the audience. So, I decided to use two visualizations to improve it.
 
 Website: 
 https://www.worldbank.org/en/programs/icp/brief/foodpricesfornutrition
@@ -40,7 +38,8 @@ Moreover, I will change each measurement title to bold and put it in a single li
 
 ## Step three: sketch out a solution
 
-I sketch my solution into two visualizations.
+I sketch my solution into two visualizations. The data are downloaded from the original datahub.
+
 
 <img src="draft1.jpg" width="400"/>
 <img src="draft2.jpg" width="400"/>
@@ -105,9 +104,9 @@ I have shown my visualizations to two different people and asked for their feedb
 
 **Is there anything you would change or do differently?**
 
-* Labeling the number of the population for each year.
+* Label the number of the population for each year.
 * Changing it to a more trackable chart that allows the audience to easily detect the differences.
-* Labeling the number of the population for each year to make the graph clear.
+* Label the number of the population for each year to make the graph clear.
 
 ## Step five: Build your solution
 
@@ -116,47 +115,68 @@ I have shown my visualizations to two different people and asked for their feedb
 <div class="flourish-embed flourish-chart" data-src="visualisation/12659307"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 There are many people that cannot afford healthy diets compared to other countries but it’s only a small portion of that country’s population, which is the contrast between the circle shape(size of population) and color.
+
 **Solution:** Choose one metric(percentages) for the visualization so it won’t confuse people. If we want to let more people have a healthy diet, we should encourage the governments to solve this problem and make sure more people can afford healthy diets. So the unaffordable percentage is a better choice for the audience.
 
 The legend shape size makes it the audience hard to compare each color.
+
 **Solution:** Use the sequential color legend to represent the percentage. Also, make it interactive so the audience can put the cursor on the region and it will display the percentage of a country’s population that cannot afford healthy diets.
 
 Hard to detect where are the 3 Billion population comes from by the graph.
+
 **Solution:** Change the title to more engaging to highlight the purpose - an unaffordable healthy diet crisis around the world.
 
 A low score on Intuitiveness and Perceptibility.
+
 **Solution:** Improve my intuitive visualization and make the visualization easier to understand.
 
 A low score on Engagement and Usefulness.
+
 **Solution:** Add a background image to illustrate the unhealthy diet crisis and change the visualization clear.
 
 The legend is unclear for viz1.
+
 **Solution:** Change the title of the legend to Unaffordable share of population by country.
 
 The other counties’ colors are not differentiable when the percentages are close for viz1.
+
 **Solution:** Make the graph interactive, so the audience can track the value of each country. 
 
 Unclear region boundary and color.
+
 **Solution:** Make the visualization digitalize. Making a footnote of some data might not provide.
 
 No unit on the y-axis for viz2.
+
 **Solution:** Add the unit - million on the y-axis.
 
 Hard to know each year's population value.
+
 **Solution:** Label the number of the population for each year next to each point.
 
 Changing it to a more trackable chart allows the audience to easily detect the differences.
+
 **Solution:**  Substitute the bar chart with a line chart.
 
 ### Revision based on in-class group discussion
 
 Maybe changes the background color to a lighter one for viz1.
+
 **Solution:** change the color to a lighter green.
 
 Perfect for both visualization. One thing that can improve is to take care of color blind people, maybe only change one color.
+
 **Solution:** change the light green to light blue.
 
 
-### Final Solution
+### Here are my Final Solutions!
+
+To highlight the issue of unhealthy diets around the world, I have decided to present it in two graphs. The first graph displays the percentage of the population for each country using a heat map to color code the severity of the crisis, allowing the audience to quickly visualize the regional distribution of the crisis and interact with its value. The second visualization is a line chart that captures the trend of the affordable and unaffordable healthy diet population of the world. This is to illustrate the vast number of people who cannot afford a healthy diet. The audience can also observe and engage in the change in the gap between these two populations and understand the growing severity of the crisis. These are more intuitive, perceptible, and aesthetics than the original visualization.
+
+
 <div class="flourish-embed flourish-map" data-src="visualisation/12666705"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/12666702"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+## Reference: 
+https://www.worldbank.org/en/programs/icp/brief/foodpricesfornutrition
