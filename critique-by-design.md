@@ -1,21 +1,35 @@
+| [Home Page](https://yicenma.github.io/tswd-portfolio) | [In-Class Week3](Week3-in-class.md) |  [Visualizing Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final project I](final-project-part-one) | [Final project II](final-project-part-two) | [Final project III](final-project-part-three) |
+
 #  Critique by Design
 
 ## Step one: Find a data visualization
 
 I found the data visualization from the world bank organization’s official website. The organization's main goal is to reduce poverty and promote sustainable economic growth in the poorest countries of the world. They covered programs cover a wide range of areas, including agriculture, education, energy, health, and infrastructure development. I found the brief named ”Food Prices for Nutrition DataHub: global statistics on the cost and affordability of healthy diets“, which highlights there is a huge group of people who cannot afford a healthy diet in the world. I think this topic is special because it is related to every human being and can alert people/organizations of the diet crisis of the world. However, the visualization’s story cannot illustrate the purpose and might confuse the audience. So, I decided to use two visualizations to improve it.
 
-Website: 
-https://www.worldbank.org/en/programs/icp/brief/foodpricesfornutrition
+The original visualization is shown below:
+
+<img src="original.jpg" width="600"/>
+
+Website: https://www.worldbank.org/en/programs/icp/brief/foodpricesfornutrition
 
 ## Step two: Critique the data visualization
+
 ### Ranking(1-10 from lowest to highest):
+
 Usefulness: 5
+
 Completeness: 8
+
 Perceptibility: 3
+
 Truthfulness: 10
+
 Intuitiveness: 4
+
 Aesthetics:7
+
 Engagement: 6
+
 
 ### Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?  
 
