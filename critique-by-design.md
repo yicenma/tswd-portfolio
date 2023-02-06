@@ -55,8 +55,9 @@ Moreover, I will change each measurement title to bold and put it in a single li
 I sketch my solution into two visualizations. The data are downloaded from the original datahub.
 
 
-<img src="draft1.jpg" width="400"/>
-<img src="draft2.jpg" width="400"/>
+<img src="draft1.jpg" width="600"/>
+
+<img src="draft2.jpg" width="600"/>
 
 ## Step four: Test the solution
 
