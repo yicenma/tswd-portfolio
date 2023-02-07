@@ -174,7 +174,7 @@ I have shown my visualizations to two different people and asked for their feedb
 
 * Changing it to a more trackable chart allows the audience to easily detect the differences.
 
-**Solution:**  Substitute the bar chart with a line chart.
+    **Solution:**  Substitute the bar chart with a line chart.
 
 ### Revision based on in-class group discussion
 
