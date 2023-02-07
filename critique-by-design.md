@@ -132,57 +132,57 @@ I have shown my visualizations to two different people and asked for their feedb
 <div class="flourish-embed flourish-chart" data-src="visualisation/12659307"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-* There are many people that cannot afford healthy diets compared to other countries but it’s only a small portion of that country’s population, which is the contrast between the circle shape(size of population) and color.
+1. There are many people that cannot afford healthy diets compared to other countries but it’s only a small portion of that country’s population, which is the contrast between the circle shape(size of population) and color.
 
 **Solution:** Choose one metric(percentages) for the visualization so it won’t confuse people. If we want to let more people have a healthy diet, we should encourage the governments to solve this problem and make sure more people can afford healthy diets. So the unaffordable percentage is a better choice for the audience.
 
-* The legend shape size makes it the audience hard to compare each color.
+2. The legend shape size makes it the audience hard to compare each color.
 
 **Solution:** Use the sequential color legend to represent the percentage. Also, make it interactive so the audience can put the cursor on the region and it will display the percentage of a country’s population that cannot afford healthy diets.
 
-* Hard to detect where are the 3 Billion population comes from by the graph.
+3. Hard to detect where are the 3 Billion population comes from by the graph.
 
 **Solution:** Change the title to more engaging to highlight the purpose - an unaffordable healthy diet crisis around the world.
 
-* A low score on Intuitiveness and Perceptibility.
+4. A low score on Intuitiveness and Perceptibility.
 
 **Solution:** Improve my intuitive visualization and make the visualization easier to understand.
 
-* A low score on Engagement and Usefulness.
+5. A low score on Engagement and Usefulness.
 
 **Solution:** Add a background image to illustrate the unhealthy diet crisis and change the visualization clear.
 
-* The legend is unclear for viz1.
+6. The legend is unclear for viz1.
 
 **Solution:** Change the title of the legend to Unaffordable share of population by country.
 
-* The other counties’ colors are not differentiable when the percentages are close for viz1.
+7. The other counties’ colors are not differentiable when the percentages are close for viz1.
 
 **Solution:** Make the graph interactive, so the audience can track the value of each country. 
 
-* Unclear region boundary and color.
+8. Unclear region boundary and color.
 
 **Solution:** Make the visualization digitalize. Making a footnote of some data might not provide.
 
-* No unit on the y-axis for viz2.
+9. No unit on the y-axis for viz2.
 
 **Solution:** Add the unit - million on the y-axis.
 
-* Hard to know each year's population value.
+10. Hard to know each year's population value.
 
 **Solution:** Label the number of the population for each year next to each point.
 
-* Changing it to a more trackable chart allows the audience to easily detect the differences.
+11. Changing it to a more trackable chart allows the audience to easily detect the differences.
 
 **Solution:**  Substitute the bar chart with a line chart.
 
 ### Revision based on in-class group discussion
 
-* Maybe changes the background color to a lighter one for viz1.
+1. Maybe changes the background color to a lighter one for viz1.
 
 **Solution:** change the color to a lighter green.
 
-* Perfect for both visualization. One thing that can improve is to take care of color blind people, maybe only change one color.
+2. Perfect for both visualization. One thing that can improve is to take care of color blind people, maybe only change one color.
 
 **Solution:** change the light green to light blue.
 
