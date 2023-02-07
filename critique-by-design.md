@@ -126,8 +126,11 @@ I have shown my visualizations to two different people and asked for their feedb
 ## Step five: Build your solution
 
 ### Revision based on interview and self-critiques
+
 <div class="flourish-embed flourish-map" data-src="visualisation/12659259"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/12659307"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 * There are many people that cannot afford healthy diets compared to other countries but it’s only a small portion of that country’s population, which is the contrast between the circle shape(size of population) and color.
 
