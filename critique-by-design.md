@@ -61,7 +61,7 @@ I sketch my solution into two visualizations. The data are downloaded from the o
 
 ## Step four: Test the solution
 
-I have shown my visualizations to two different people and asked for their feedback shown below. One is my classmate and the other is the general audience.
+I have shown my visualizations to two different people(mid 20's) and asked for their feedback shown below. One is my classmate and the other is the general audience.
 
 ### First VIZ
 
