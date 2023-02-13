@@ -164,7 +164,9 @@ I will ask my audience to view the corresponding group’s activity time and act
 **Web and Youtube Video: **
 
 https://www.cdc.gov/physicalactivity/basics/age-chart.html
+
 https://www.cdc.gov/physicalactivity/basics/adding-pa/index.htm
+
 https://luzmod.com/
 
 
