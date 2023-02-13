@@ -44,12 +44,12 @@ These two visualizations want to highlight the percentage of physical inactivity
 
 <div class="flourish-embed" data-src="visualisation/12728429"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<img src="InactiveAcrossState.jpg" width="700"/>
+<img src="/part1/InactiveAcrossState.jpg" width="700"/>
 
 ### Obesity Rate And Life expectation From 1999
 I put three lines in one chart(life expectation, obesity, and severe obesity ate) to illustrate the trend across time and focus on the trend comparison which illustrates people easy to neglect their physical health and more heavily dependent on the medical cure.
 
-<img src="obesity.jpg" width="500"/>
+<img src="/part1/obesity.jpg" width="500"/>
 
 ## Heart Disease
 
@@ -60,7 +60,7 @@ I want to highlight there is 655,000 American die from heart disease each year a
 ### Ranking reasons for not doing physical activity
 I only focus on the top three reasons for future discussion and use red to highlight them. The descending order points out the importance of those reasons. By capturing the top reasons, the result will be much more efficient.
 
-<img src="RankingReason.jpg" width="500"/>
+<img src="/part1/RankingReason.jpg" width="500"/>
 
 ## Resolution:
 
@@ -68,7 +68,7 @@ I only focus on the top three reasons for future discussion and use red to highl
 
 This visualization will highlight the percentage of wasted time in the pie chart. Most people are wasting a lot of time, which illustrates they have time. It conflicts and provides a solution for the first reason. Also, I will add the color legend on the side in the future.
 
-<img src="pie.jpg" width="400"/>
+<img src="/part1/pie.jpg" width="400"/>
 
 ### How Americans would feel if they exercised regularly
 I built a word cloud of the top 10 feelings of Americans if they exercised regularly and assign the phrase weight to the percentages. These words represent the positive feelings and benefits that are often associated with regular exercise. By exercising regularly, people tend to feel more energized, happier, and less tried. They also experience physical benefits, such as improved health and strength.
@@ -79,7 +79,7 @@ I built a word cloud of the top 10 feelings of Americans if they exercised regul
 
 I use the scatter plot to encode data using the position of times per week(y-axis) and activity intensity(x-axis) to illustrate activity requirements for each category population, so they know the corresponding activity to choose for the audience action. 
 
-<img src="Scatter.jpg" width="500"/>
+<img src="/part1/Scatter.jpg" width="500"/>
 
 ## Image Reference:
 https://www.cdc.gov/physicalactivity/data/inactivity-prevalence-maps/index.html
