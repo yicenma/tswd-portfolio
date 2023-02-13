@@ -46,13 +46,13 @@ These two visualizations want to highlight the percentage of physical inactivity
 
 <div class="flourish-embed" data-src="visualisation/12728429"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<img src="/part1/InactiveAcrossState.jpg" width="700"/>
+<img src="part1/InactiveAcrossState.jpg" width="700"/>
 
 ### Obesity Rate And Life expectation From 1999
 
 I put three lines in one chart(life expectation, obesity, and severe obesity ate) to illustrate the trend across time and focus on the trend comparison which illustrates people easy to neglect their physical health and more heavily dependent on the medical cure.
 
-<img src="/part1/obesity.jpg" width="500"/>
+<img src="part1/obesity.jpg" width="500"/>
 
 ## Heart Disease
 
@@ -83,7 +83,7 @@ I built a word cloud of the top 10 feelings of Americans if they exercised regul
 
 I use the scatter plot to encode data using the position of times per week(y-axis) and activity intensity(x-axis) to illustrate activity requirements for each category population, so they know the corresponding activity to choose for the audience action. 
 
-<img src="/part1/Scatter.jpg" width="500"/>
+<img src="part1/Scatter.jpg" width="500"/>
 
 ## Image Reference:
 
