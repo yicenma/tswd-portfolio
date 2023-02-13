@@ -34,11 +34,9 @@ Here are the all works. Please take a look!
 - Part 2: Working with Flourish
 
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
-Coming Soon!
- 
 
 ## Final project
-There are 3 parts of the final project. Coming Soon!
+There are 3 parts of the final project. 
 
 [Part I](final-project-part-one.md)
 
