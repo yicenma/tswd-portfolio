@@ -27,7 +27,7 @@ Start to find the proper physical exercise time and activity for different ages 
 
 ## Story Arc
 
-<img src="storyArc.jpg" width="700"/>
+<img src="/part1/storyArc.jpg" width="700"/>
 
 ## Story Arc
 
