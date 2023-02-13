@@ -160,7 +160,7 @@ I will also cite all my reference(data and images) with the website link as my m
 
 I will ask my audience to view the corresponding group’s activity time and activity intensity. Also, I will provide one video streaming workout plan for my audience.
 
-**Web and Youtube Video: **
+**Web and Youtube Video:**
 
 https://www.cdc.gov/physicalactivity/basics/age-chart.html
 
