@@ -72,7 +72,7 @@ I only focus on the top three reasons for future discussion and use red to highl
 
 This visualization will highlight the percentage of wasted time in the pie chart. Most people are wasting a lot of time, which illustrates they have time. It conflicts and provides a solution for the first reason. Also, I will add the color legend on the side in the future.
 
-<img src="/part1/pie.jpg" width="400"/>
+<img src="part1/pie.jpg" width="400"/>
 
 ### How Americans would feel if they exercised regularly
 I built a word cloud of the top 10 feelings of Americans if they exercised regularly and assign the phrase weight to the percentages. These words represent the positive feelings and benefits that are often associated with regular exercise. By exercising regularly, people tend to feel more energized, happier, and less tried. They also experience physical benefits, such as improved health and strength.
@@ -96,37 +96,37 @@ https://www.spreadsheetweb.com/pie-chart-in-excel/
 
 ### Link1: https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm
 
-This page provides information about the importance of physical activity for health. The page provides a comprehensive overview of the many benefits of physical activity, including improved cardiovascular health, stronger bones and muscles, better weight management, reduced risk of chronic diseases such as diabetes and some cancers, and improved mental health and well-being. The page also includes recommendations for physical activity, guidelines for different age groups, and links for getting started with a physical activity program. 
+This page provides information about the importance of physical activity for health. The page provides a comprehensive overview of the many benefits of physical activity, including improved cardiovascular health, stronger bones and muscles, better weight management, reduced risk of chronic diseases such as diabetes and some cancers, and improved mental health and well-being. The page also includes recommendations for physical activity, guidelines for different age groups, and links for getting started with a physical activity program. I use this data to list the benefits from the physical activity.
 
 ### Link2: https://www.cdc.gov/physicalactivity/data/inactivity-prevalence-maps/index.html
 
-This data provides information on physical inactivity in the United States. The page includes maps and data showing the prevalence of physical inactivity by state and territory, as well as information on disparities in physical inactivity among different racial/ethnic and socio-economic groups. This page’s data provide valuable insights into the current state of physical inactivity in the United States and better understand the trends and disparities in physical inactivity. 
+This data provides information on physical inactivity in the United States. The page includes maps and data showing the prevalence of physical inactivity by state and territory, as well as information on disparities in physical inactivity among different racial/ethnic and socio-economic groups. This page’s data provide valuable insights into the current state of physical inactivity in the United States and better understand the trends and disparities in physical inactivity.  I use these data to emphasis the inactive portion population and how it is distributed into the US state map.
 
 ### Link3: https://www.cdc.gov/nchs/data/databriefs/db360_tables-508.pdf#page=4
 
-It shows a table of the prevalence of obesity and severe obesity among adults in the United States(aged 20 and over) from 19999 to 2018.
+It shows a table of the prevalence of obesity and severe obesity among adults in the United States(aged 20 and over) from 19999 to 2018. I use it to create a line chart so that we can track the trend and find out more people's lack of awareness of health.
 
 ### Link4:https://www.cdc.gov/heartdisease/facts.htm#:~:text=Heart%20disease%20is%20the%20leading,1%20in%20every%204%20deaths.
 
-This page provides data and statistics on heart disease, including its prevalence, causes, and risk factors. It also provides information on the relationship between heart disease and other health behaviors, such as physical activity, diet, and smoking. The page also includes information on the steps people can take to reduce their risk of heart disease, such as maintaining a healthy lifestyle, managing risk factors, and seeking regular medical care.
+This page provides data and statistics on heart disease, including its prevalence, causes, and risk factors. It also provides information on the relationship between heart disease and other health behaviors, such as physical activity, diet, and smoking. The page also includes information on the steps people can take to reduce their risk of heart disease, such as maintaining a healthy lifestyle, managing risk factors, and seeking regular medical care. I use the data to increase awareness of heart disease so that I can introduce the importance and benefits of importance physical activities. 
 
 ## Data Source 2 New York Post Article
 
 Link: https://nypost.com/2019/01/13/this-is-why-most-americans-dont-exercise-more/
 
-This article published by the New York Post provides information on why many Americans do not exercise regularly. The article cites various reasons for this, including lack of time, lack of motivation, and lack of access to suitable exercise facilities. The article also touches on some of the common excuses people use for not exercising, such as being too busy or too tired. Additionally, the article provides information on the health benefits of regular exercise and encourages people to find ways to make physical activity a part of their daily routine. 
+This article published by the New York Post provides information on why many Americans do not exercise regularly. The article cites various reasons for this, including lack of time, lack of motivation, and lack of access to suitable exercise facilities. The article also touches on some of the common excuses people use for not exercising, such as being too busy or too tired. Additionally, the article provides information on the health benefits of regular exercise and encourages people to find ways to make physical activity a part of their daily routine. I use the data to shift the focus to the top three reasons of not work out.
 
 ## Data Source 3 Our World in Data
 
 Link: https://ourworldindata.org/life-expectancy#twice-as-long-life-expectancy-around-the-world
 
-It provides information on life expectancy around the world. The page includes interactive visualizations and data on life expectancy trends over time and across different countries and regions. It also provides information on the factors that influence life expectancy, including health behaviors such as physical activity, diet, and smoking, as well as broader societal factors such as income, education, and healthcare access. The information on this page provides a comprehensive overview of life expectancy trends.
+It provides information on life expectancy around the world. The page includes interactive visualizations and data on life expectancy trends over time and across different countries and regions. It also provides information on the factors that influence life expectancy, including health behaviors such as physical activity, diet, and smoking, as well as broader societal factors such as income, education, and healthcare access. The information on this page provides a comprehensive overview of life expectancy trends. I use the data to show the increase medical technology trend so that I can compare with the increase of obesity rate trend.
 
 ## Data Source 4 Building Indiana Article
 
 Link: https://buildingindiana.com/we-waste-a-lot-time-and-money/#:~:text=31%25%20of%20people%20waste%20roughly,waste%20roughly%203%20hours%20daily
 
-It discusses how people waste a lot of time and money. The post states the percentage of people who waste hours daily on activities that do not add value to their lives, such as browsing social media, watching TV, or playing video games. The post also discusses how this wasted time and money can impact an individual's physical and financial health, as well as their overall well-being. The post concludes by suggesting that people can improve their lives by reducing the amount of time they waste on non-essential activities and instead focusing on activities that add value, such as exercising, reading, or pursuing hobbies. 
+It discusses how people waste a lot of time and money. The post states the percentage of people who waste hours daily on activities that do not add value to their lives, such as browsing social media, watching TV, or playing video games. The post also discusses how this wasted time and money can impact an individual's physical and financial health, as well as their overall well-being. The post concludes by suggesting that people can improve their lives by reducing the amount of time they waste on non-essential activities and instead focusing on activities that add value, such as exercising, reading, or pursuing hobbies. I can use the data to prove that most of people can save some time daily to do the workout.
 
 ## Data Source 5 Techjury Article
 
@@ -138,7 +138,7 @@ It provides information on the amount of time people spend on social media. The 
 
 Link: https://techjury.net/blog/time-spent-on-social-media/#gref
 
-It provides information on the amount of time people spend on social media. The post highlights the growing trend of social media usage and the increasing amount of time that people are spending on various social media platforms. The post provides data and statistics on the average time people spend on social media, as well as the demographic breakdown of social media users. The post also discusses the potential impact of excessive social media usage on individuals, including decreased physical activity levels, reduced sleep quality, and increased levels of stress and anxiety. The post concludes by offering tips for reducing social media usage and maximizing the benefits of using these platforms. 
+It provides information on the amount of time people spend on social media. The post highlights the growing trend of social media usage and the increasing amount of time that people are spending on various social media platforms. The post provides data and statistics on the average time people spend on social media, as well as the demographic breakdown of social media users. The post also discusses the potential impact of excessive social media usage on individuals, including decreased physical activity levels, reduced sleep quality, and increased levels of stress and anxiety. The post concludes by offering tips for reducing social media usage and maximizing the benefits of using these platforms. I can use the data to illustrate whether using social media is really necessary and we can save some time daily to do the workout.
 
 
 # Method and Medium
