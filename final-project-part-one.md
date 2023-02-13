@@ -10,13 +10,13 @@ My project aims to convince people to adopt physical activity as a regular habit
 
 It is a well-known fact that physical activity plays a crucial role in maintaining good health. This is a common sense approach that has been emphasized time and time again by health experts and organizations. The benefits of physical activity are numerous and well-documented, including improved cardiovascular health, stronger bones and muscles, better weight management, and enhanced mental well-being.
 
-**Conflict: **
+**Conflict:**
 
 In today's fast-paced world, it can be easy to neglect our physical health and fall into a sedentary lifestyle. 
 The increasing life expectancy implies increasing medical technology levels. The increase of obesity across the country causes people easy to neglect their physical health and more heavily depends on the medical cure.
 Furthermore, I highlight the top three common reasons. Firstly, many people have demanding work schedules and long hours that leave little time for physical activity. Technology has made it easier to be sedentary, with many people spending hours sitting in front of computers or staring at their phones. They thought they don’t have time to do physical activity. Secondly, some people may simply lack motivation or struggle with finding activities that they enjoy.  Finally, some people think they are old and not fit to do exercise.
 
-**Resolution: ** 
+**Resolution:** 
 
 I understand that finding time for exercise, maintaining motivation, and feeling too old are common obstacles that prevent people from incorporating physical activity into their lives. However, I firmly believe that these challenges can be overcome. I provide each solution for these three reasons. I
 In reality, all you need is 30 minutes of exercise every day. This brings up the simplicity and accessibility of incorporating physical activity into one's daily routine. 30 minutes is a manageable and achievable amount of time that can make a significant impact on one's health and well-being. Additionally, 30 minutes of exercise per day is a small investment of time that can pay off in the long run in terms of improved health and quality of life. So, if you want to lead a healthier and more fulfilling life, all you need to do is set aside 30 minutes a day for physical activity.
@@ -32,12 +32,15 @@ Start to find the proper physical exercise time and activity for different ages 
 ## Story Arc
 
 # Initial sketches
+
 ## Setup
+
 In this visualization, I want to highlight the common sense knowledge, that physical activity plays a crucial role in maintaining good health. The flashing increasing number will illustrate this well-known fact. 
 
 <div class="flourish-embed" data-src="visualisation/12728343"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Conflict
+
 ### Prevalence of physical inactivity overall and Prevalence of physical inactivity across all states
 
 These two visualizations want to highlight the percentage of physical inactivity in the US and across each state in the world map.
@@ -47,6 +50,7 @@ These two visualizations want to highlight the percentage of physical inactivity
 <img src="/part1/InactiveAcrossState.jpg" width="700"/>
 
 ### Obesity Rate And Life expectation From 1999
+
 I put three lines in one chart(life expectation, obesity, and severe obesity ate) to illustrate the trend across time and focus on the trend comparison which illustrates people easy to neglect their physical health and more heavily dependent on the medical cure.
 
 <img src="/part1/obesity.jpg" width="500"/>
@@ -58,6 +62,7 @@ I want to highlight there is 655,000 American die from heart disease each year a
 <div class="flourish-embed" data-src="visualisation/12729365"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Ranking reasons for not doing physical activity
+
 I only focus on the top three reasons for future discussion and use red to highlight them. The descending order points out the importance of those reasons. By capturing the top reasons, the result will be much more efficient.
 
 <img src="/part1/RankingReason.jpg" width="500"/>
@@ -82,10 +87,12 @@ I use the scatter plot to encode data using the position of times per week(y-axi
 <img src="/part1/Scatter.jpg" width="500"/>
 
 ## Image Reference:
+
 https://www.cdc.gov/physicalactivity/data/inactivity-prevalence-maps/index.html
 https://www.spreadsheetweb.com/pie-chart-in-excel/
 
 # The Data
+
 ## Data Source 1 Centers for Disease Control and Prevention (CDC)
 
 ### Link1: https://www.cdc.gov/physicalactivity/basics/pa-health/index.htm
