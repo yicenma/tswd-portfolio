@@ -65,7 +65,7 @@ I want to highlight there is 655,000 American die from heart disease each year a
 
 I only focus on the top three reasons for future discussion and use red to highlight them. The descending order points out the importance of those reasons. By capturing the top reasons, the result will be much more efficient.
 
-<img src="/part1/RankingReason.jpg" width="500"/>
+<img src="part1/RankingReason.jpg" width="500"/>
 
 ## Resolution:
 
