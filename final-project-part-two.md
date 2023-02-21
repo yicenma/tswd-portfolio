@@ -55,10 +55,11 @@ The goal of the interview is to gather some suggestions for the future modificat
 (DONE) |In-class discussion    |
 |Add the viz on the web, rather than switch to flourish and shorthand back and forth(DONE)|Change the workspace to CMU, and then add the HTML to it|In-class discussion|
 |Donut shapes have many colors.            |Highlights the 30 mins for social media and makes other areas grey.                    |Interview    |
-|                                          |                                                                                 |    |
-|                                          |                                                                                 |    |
-|                                          |                                                                                 |    |
-|                                          |                                                                                 |    |
+|Add another representation of how many minutes people spend on social media in a day|Add a Highlight on how many minutes are spent in a year.|Interview    |
+|Missing transition|Re-declare the mechanism of stress for college students that will cause those unhealthy habits.|Interview    |
+|Some viz are redundant.|Remove the viz of 36.8 days per year spent on social media.|Interview|
+|Find a more convincing source|Trying to find another study that shows college students demonstrate they don’t have time to do those healthy habits.
+|Interview    |
 |                                          |                                                                                 |    |
 |                                          |                                                                                 |    |
 |                                          |                                                                                 |    |
