@@ -51,7 +51,10 @@ The goal of the interview is to gather some suggestions for the future modificat
 | Research synthesis                       | Anticipated changes for Part III                                                |Source|
 |------------------------------------------|---------------------------------------------------------------------------------|----------------------|
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |    |
-|                                          |                                                                                 |    |
+|Change the visualization of spending time on social media.|Spending time on social media per day -> per year: to highlight the huge time wasting
+(DONE) |In-class discussion    |
+|Add the viz on the web, rather than switch to flourish and shorthand back and forth(DONE)|Change the workspace to CMU, and then add the HTML to it|In-class discussion|
+|Donut shapes have many colors.            |Highlights the 30 mins for social media and makes other areas grey.                    |Interview    |
 |                                          |                                                                                 |    |
 |                                          |                                                                                 |    |
 |                                          |                                                                                 |    |
