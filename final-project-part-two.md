@@ -8,19 +8,29 @@ Link: https://preview.shorthand.com/dKcZBVaflEdYhawU
 # User research 
 
 ## Target audience
-> Interview Questions
-> Q1: Could you identify the audience for this wireframe?
-> Q2: What was your key takeaway?
-> Q3: Do you think this story telling is impressive? If not, what do you recommend to revise?
-> Q4: Is there anything that you felt to be confused? Where?
-> Q5: Is there any suggestion to improve my work?
-> Q6: Does the charts help to grasp the information presented?
-> Q7: After the viewing, is this motivate you to change your current unhealhty habit? Is not, why?
 
 Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+
+The goal of the interview is to gather some suggestions for the future modification of the story board and visualizations from the interviewees. Also, to make sure the story telling is impressive and easy to understand for the audience.
+
+> Interview Questions
+> 
+> Q1: Could you identify the audience for this wireframe?
+> 
+> Q2: What was your key takeaway?
+> 
+> Q3: Do you think this story telling is impressive? If not, what do you recommend to revise?
+> 
+> Q4: Is there anything that you felt to be confused? Where?
+> 
+> Q5: Is there any suggestion to improve my work?
+> 
+> Q6: Does the charts help to grasp the information presented?
+> 
+> Q7: After the viewing, is this motivate you to change your current unhealhty habit? Is not, why?
+> 
 
 Text here!
 
