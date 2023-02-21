@@ -17,28 +17,17 @@ The goal of the interview is to gather some suggestions for the future modificat
 
 > Interview Questions
 > 
-> Q1: Could you identify the audience for this wireframe?
-> 
-> Q2: What was your key takeaway?
-> 
-> Q3: Do you think this story telling is impressive? If not, what do you recommend to revise?
-> 
-> Q4: Is there anything that you felt to be confused? Where?
-> 
-> Q5: Is there any suggestion to improve my work?
-> 
-> Q6: Does the charts help to grasp the information presented?
-> 
-> Q7: After the viewing, is this motivate you to change your current unhealhty habit? Is not, why?
-> 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
 |Understnad the target audience      |Q1: Could you identify the audience for this wireframe?                  |
-|Understnad the story takeaway      | Q2: What was your key takeaway?                  |
-|      |                  |
+|Understnad the story takeaway      |Q2: What was your key takeaway?                  |
+|Story telling methods      |Q3: Do you think this story telling is impressive? If not, what do you recommend to revise?                  |
+|Checking on confusion      |Q4: Is there anything that you felt to be confused? Where?                  |
+|Gathering suggestions      |Q5: Is there any suggestion to improve my work?                  |
+|Visualization of charts      |Q6: Does the charts help to grasp the information presented?                  |
+|Power of the delivered message for audience    |Q7: After the viewing, is this motivate you to change your current unhealhty habit? Is not, why?                  |
+
 
 
 Text here!
