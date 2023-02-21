@@ -8,8 +8,7 @@ Link: https://preview.shorthand.com/dKcZBVaflEdYhawU
 # User research 
 
 ## Target audience
-
-Text here!
+The audience of my website are college students. I'm trying to promote good habits such as exercising, eating healthy food, and getting enough sleep, which many students declare they don’t have time to do it. However, students often waste too much time on social media and use "no time" as an excuse for their bad habits. This phenomenon is prominent in college.
 
 ## Interview script
 
@@ -20,7 +19,7 @@ The goal of the interview is to gather some suggestions for the future modificat
 
 | Goal | Questions to Ask |
 |------|------------------|
-|Understnad the target audience      |Q1: Could you identify the audience for this wireframe?                  |
+|Understand the target audience      |Q1: Could you identify the audience for this wireframe?                  |
 |Understnad the story takeaway      |Q2: What was your key takeaway?                  |
 |Story telling methods      |Q3: Do you think this story telling is impressive? If not, what do you recommend to revise?                  |
 |Checking on confusion      |Q4: Is there anything that you felt to be confused? Where?                  |
@@ -47,22 +46,17 @@ The goal of the interview is to gather some suggestions for the future modificat
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Research synthesis                       | Anticipated changes for Part III                                                | Source              |
+|------------------------------------------|---------------------------------------------------------------------------------|                     |
+|  | Describe what, if any changes you anticipate making to address the observation. |                     |
+|                                          |                                                                                 |                     |
+|                                          |                                                                                 |                     |
+|                                          |                                                                                 |                     |
+| ...add more rows as necessary            |                                                                                 |                     |
 
 > ...include any final thoughts you have here. 
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
