@@ -29,6 +29,7 @@ The goal of the interview is to gather some suggestions for the future modificat
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+> I interview three people. Two are 20’s female students and one is 20’s male master student.
 
 
 | Questions               | Interview 1 (Mid 20s, Female) | Interview 2 (Mid 20s, Male) | Interview 3 (Mid 20s, Female) |
