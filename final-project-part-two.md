@@ -8,7 +8,14 @@ Link: https://preview.shorthand.com/dKcZBVaflEdYhawU
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+> Interview Questions
+> Q1: Could you identify the audience for this wireframe?
+> Q2: What was your key takeaway?
+> Q3: Do you think this story telling is impressive? If not, what do you recommend to revise?
+> Q4: Is there anything that you felt to be confused? Where?
+> Q5: Is there any suggestion to improve my work?
+> Q6: Does the charts help to grasp the information presented?
+> Q7: After the viewing, is this motivate you to change your current unhealhty habit? Is not, why?
 
 Text here!
 
