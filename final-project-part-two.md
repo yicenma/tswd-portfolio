@@ -57,8 +57,7 @@ The goal of the interview is to gather some suggestions for the future modificat
 |Add another representation of how many minutes people spend on social media in a day|Add a Highlight on how many minutes are spent in a year.|Interview    |
 |Missing transition|Re-declare the mechanism of stress for college students that will cause those unhealthy habits.|Interview    |
 |Some viz are redundant.|Remove the viz of 36.8 days per year spent on social media.|Interview|
-|Find a more convincing source|Trying to find another study that shows college students demonstrate they don’t have time to do those healthy habits.
-|Interview    |
+|Find a more convincing source|Trying to find another study that shows college students demonstrate they don’t have time to do those healthy habits|Interview|
 |Disjoint|Add one more slide of the transition before the social media trend|Interview|
 |Finalize all the visualizations.|Add source, finalize, and title/footnotes for each viz|Self   |
 |Some grammar check|None|self|
