@@ -50,7 +50,6 @@ The goal of the interview is to gather some suggestions for the future modificat
 
 | Research synthesis                       | Anticipated changes for Part III                                                |Source|
 |------------------------------------------|---------------------------------------------------------------------------------|----------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |    |
 |Change the visualization of spending time on social media.|Spending time on social media per day -> per year: to highlight the huge time wasting
 (DONE) |In-class discussion    |
 |Add the viz on the web, rather than switch to flourish and shorthand back and forth(DONE)|Change the workspace to CMU, and then add the HTML to it|In-class discussion|
@@ -60,14 +59,11 @@ The goal of the interview is to gather some suggestions for the future modificat
 |Some viz are redundant.|Remove the viz of 36.8 days per year spent on social media.|Interview|
 |Find a more convincing source|Trying to find another study that shows college students demonstrate they don’t have time to do those healthy habits.
 |Interview    |
-|                                          |                                                                                 |    |
-|                                          |                                                                                 |    |
-|                                          |                                                                                 |    |
-|                                          |                                                                                 |    |
-| ...add more rows as necessary            |                                                                                 |    |
+|Disjoint|Add one more slide of the transition before the social media trend|Interview|
 
-> ...include any final thoughts you have here. 
+|Finalize all the visualizations.|Add source, finalize, and title/footnotes for each viz|Self   |
+|Some grammar check|None|self|
 
-Text here!
 
+> I will also go to check with my other friends on the web when I finalized my web on the weekend to see if the story is more persuasive.
 
