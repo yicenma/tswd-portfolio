@@ -25,7 +25,7 @@ The goal of the interview is to gather some suggestions for the future modificat
 |Checking on confusion      |Q4: Is there anything that you felt to be confused? Where?                  |
 |Gathering suggestions      |Q5: Is there any suggestion to improve my work?                  |
 |Visualization of charts      |Q6: Does the charts help to grasp the information presented?                  |
-|Power of the delivered message for audience    |Q7: After the viewing, is this motivate you to change your current unhealhty habit? Is not, why?                  |
+|Power of the delivered message for audience    |Q7: After the viewing, does this motivate you to change your current unhealhty habit? If not，why?                 |
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
