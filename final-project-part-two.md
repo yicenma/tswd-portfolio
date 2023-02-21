@@ -39,9 +39,14 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Q1                      |I think the students at CMU could be the audience for this wireframe.          |             |             |
+| Q2                      |We could utilize the time we wasted on social media and other internet contents to do more meaningful things and develop good habits that can make us healthier.                                |             |             |
+| Q3                      |I think this is impressive. The donut shape graph used too many different colors. I suggest using fewer colors and make everything uniform.                                 |             |             |
+| Q4                      |No. I think everything is clear and straightforward.                                 |             |             |
+| Q5                      |I would say the use of color. I think you currently have too many colors, try to find a few main colors you want to use. Also, for the graph showing how many minutes people spend on social media in a day. I think you can show how much time they spend in a year and highlight it.                                |             |             |
+| Q6                      |Yes. These charts are very illustrative.                                |             |             |
+| Q7                      |Yes, it motivated me to exercise more. I have been physically inactive for the past. I want to be healthier.                                |             |             |
+
 
 
 # Identified changes for Part III
