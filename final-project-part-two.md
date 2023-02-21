@@ -50,8 +50,7 @@ The goal of the interview is to gather some suggestions for the future modificat
 
 | Research synthesis                       | Anticipated changes for Part III                                                |Source|
 |------------------------------------------|---------------------------------------------------------------------------------|----------------------|
-|Change the visualization of spending time on social media.|Spending time on social media per day -> per year: to highlight the huge time wasting
-(DONE) |In-class discussion    |
+|Change the visualization of spending time on social media.|Spending time on social media per day -> per year: to highlight the huge time wasting(DONE) |In-class discussion    |
 |Add the viz on the web, rather than switch to flourish and shorthand back and forth(DONE)|Change the workspace to CMU, and then add the HTML to it|In-class discussion|
 |Donut shapes have many colors.            |Highlights the 30 mins for social media and makes other areas grey.                    |Interview    |
 |Add another representation of how many minutes people spend on social media in a day|Add a Highlight on how many minutes are spent in a year.|Interview    |
