@@ -36,8 +36,8 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
+|Understnad the target audience      |Q1: Could you identify the audience for this wireframe?                  |
+|Understnad the story takeaway      | Q2: What was your key takeaway?                  |
 |      |                  |
 
 
