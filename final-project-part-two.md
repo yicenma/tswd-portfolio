@@ -49,8 +49,8 @@ The goal of the interview is to gather some suggestions for the future modificat
 
 
 | Research synthesis                       | Anticipated changes for Part III                                                | Source              |
-|------------------------------------------|---------------------------------------------------------------------------------|                     |
-|  | Describe what, if any changes you anticipate making to address the observation. |                     |
+|                        ||                     |
+|  | |                     |
 |                                          |                                                                                 |                     |
 |                                          |                                                                                 |                     |
 |                                          |                                                                                 |                     |
