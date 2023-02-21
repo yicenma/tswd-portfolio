@@ -48,13 +48,13 @@ The goal of the interview is to gather some suggestions for the future modificat
 > Document the changes you plan on implementing next week to address any issues identified.  
 
 
-| Research synthesis                       | Anticipated changes for Part III                                                | Source              |
-|                        ||                     |
-|  | |                     |
-|                                          |                                                                                 |                     |
-|                                          |                                                                                 |                     |
-|                                          |                                                                                 |                     |
-| ...add more rows as necessary            |                                                                                 |                     |
+| Research synthesis                       | Anticipated changes for Part III                                                |Source|
+|------------------------------------------|---------------------------------------------------------------------------------|     |
+| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |    |
+|                                          |                                                                                 |    |
+|                                          |                                                                                 |    |
+|                                          |                                                                                 |    |
+| ...add more rows as necessary            |                                                                                 |    |
 
 > ...include any final thoughts you have here. 
 
