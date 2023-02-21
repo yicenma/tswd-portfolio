@@ -59,7 +59,6 @@ The goal of the interview is to gather some suggestions for the future modificat
 |Find a more convincing source|Trying to find another study that shows college students demonstrate they don’t have time to do those healthy habits.
 |Interview    |
 |Disjoint|Add one more slide of the transition before the social media trend|Interview|
-
 |Finalize all the visualizations.|Add source, finalize, and title/footnotes for each viz|Self   |
 |Some grammar check|None|self|
 
