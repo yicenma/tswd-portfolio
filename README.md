@@ -27,7 +27,7 @@ Here are the all works. Please take a look!
 
 
 ## In-Class Excercise
-- [Week3] Covid-19 Graph (Week3-in-class.md)
+- [Week3](Week3-in-class.md) Covid-19 Graph
 
 ## Assignment2: [Visualizing Government Debt](visualizing-government-debt.md)
 - Part 1: Working with web-based visualization tools and data
