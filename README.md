@@ -34,15 +34,30 @@ Here are the all works. Please take a look!
 - Part 2: Working with Flourish
 
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
+- Step one: find a data visualization (with data you can use!)
+- Step two: critique the data visualization
+- Step three: sketch out a solution
+- Step four: Test the solution
+- Step five: Build your solution
 
 ## Final project
-There are 3 parts of the final project. 
+There are 3 parts of the final project. A core goal of the final project will be understanding your audience and ensuring you are communicating at an appropriate level, and telling the story using data visualization methods that are meaningful.
 
 [Part I](final-project-part-one.md)
+- An outline
+- Initial sketches
+- The data
+- Method and medium
 
 [Part II](final-project-part-two.md)
+- Wireframes and storyboards
+- User research and interviews
 
 [Part III](final-project-part-three.md)
+- A final writeup
+- A final data story 
+- A Word document 
+- A presentation
 
 
 ## Reference
