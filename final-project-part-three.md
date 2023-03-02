@@ -43,6 +43,7 @@ In the first part design, I only decided to motivate the United States people to
 So, the topic could be a refreshing and interesting perspective for your audience. Moreover, my personal experience to shift unhealthy habits to healthy lifestyles makes it easier for you to provide insights and recommendations. So, discussing this topic might be more authentic and compelling for your audience. Ultimately, in my call to action, I provided the actions which are actionable and more concrete steps, and easy to complete. My story is supported by complete and accurate data, which makes my story convincing to my audience as well.
 
 Story Flow:
+
 -Introduce the college student stress lead to unhealthy habit
 -Talks about the sever health/mental issue lead by those unhealthy habit
 -The excuse from college student states why is it difficult to develop good habits while in college - lack of time
