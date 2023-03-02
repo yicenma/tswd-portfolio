@@ -11,12 +11,12 @@
 
 Firstly, based on part2’s interview findings, I revised my story by removing some redudents graphs, adding some transitions, and grammar check and highlighting some important messages to the audience. 
 
-Furthermore, I reviewed the professor’s comments on the part II and revise those. For example, I added all of my reference in MLA format and the footnote in my story. Moreover, I tried a couple of visualization for my donuts charts and decided to use the pie chart and highlight the social media changes as the final result. Moreover, I also finalize all my visualizations. And I asked my friend’s suggestion on improvements and revise them again. 
-All of the works are listed as below:
+Furthermore, I reviewed the professor’s comments on the part II and revise those. For example, I added all of my reference in MLA format and the footnote in my story. Moreover, I tried a couple of visualization for my donuts charts and decided to use the pie chart and highlight the social media changes as the final result. Moreover, I also finalize all my visualizations and more text about my personal experience based on the suggestion from professor. And I asked my friend’s suggestion on improvements and revise them again. All of the works are listed as below:
 
 - Finalize all the visualization, ex. adding the data source as the footnote, complete title, x-axis and y-axis, ect.
-- Add the two transitions page to smooth my story flow
+- Add the four transitions page to smooth my story flow
 - Change the title color to make it easier to read
+- Add more text to support the story flow and make the audience easier to understand
 - Remove one redundant chart
 - Re-design the donut shape visualizations
 - Provide all the references for data and image
