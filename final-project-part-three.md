@@ -44,16 +44,16 @@ So, the topic could be a refreshing and interesting perspective for your audienc
 
 Story Flow:
 
--Introduce the college student stress lead to unhealthy habit
--Talks about the sever health/mental issue lead by those unhealthy habit
--The excuse from college student states why is it difficult to develop good habits while in college - lack of time
--But actually, they do have lot of time to spend time on social media
--Background of social media rising and why student addict to it
--Highlights the huge time of college student spending on social media daily
--Suggested healthy habits to develop
--Positive feedback from keeping healthy habits people and share my personal experience
--Well time management design, so that students still have time to spend on social media
--Call to actions: limit screen time, sleeping mode,short home workout, healthy diet design
+- Introduce the college student stress lead to unhealthy habit
+- Talks about the sever health/mental issue lead by those unhealthy habit
+- The excuse from college student states why is it difficult to develop good habits while in college - lack of time
+- But actually, they do have lot of time to spend time on social media
+- Background of social media rising and why student addict to it
+- Highlights the huge time of college student spending on social media daily
+- Suggested healthy habits to develop
+- Positive feedback from keeping healthy habits people and share my personal experience
+- Well time management design, so that students still have time to spend on social media
+- Call to actions: limit screen time, sleeping mode,short home workout, healthy diet design
 
 ## References
 
