@@ -1,7 +1,7 @@
 # Yicen Ma Portfolio
 This is my public portfolio for Telling Stories with Data Course at CMU!  Here's where all my cool work will go. 
 
-Web page URL: https://yicenma.github.io/tswd-portfolio/
+[Portfolio Web page UR:](https://yicenma.github.io/tswd-portfolio/)
 
 This repository: https://github.com/yicenma/tswd-portfolio/
 
