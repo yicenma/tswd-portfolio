@@ -63,4 +63,4 @@ There are 3 parts of the final project. A core goal of the final project will be
 
 ## Reference
 
-https://github.com/cmustudent/tswd-portfolio-templates
+[TSWD Github Templates](https://github.com/cmustudent/tswd-portfolio-templates)
