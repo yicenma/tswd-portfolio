@@ -4,7 +4,7 @@
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Link:
+[Final Story](https://carnegiemellon.shorthandstories.com/breaking-the-cycle-overcoming-bad-habits-for-a-healthier-college-lifestyle/index.html)
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
