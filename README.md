@@ -59,6 +59,7 @@ There are 3 parts of the final project. A core goal of the final project will be
 - A Word document 
 - A presentation
 
+Final Story Link: https://carnegiemellon.shorthandstories.com/breaking-the-cycle-overcoming-bad-habits-for-a-healthier-college-lifestyle/index.html
 
 ## Reference
 
